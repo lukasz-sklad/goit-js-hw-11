@@ -79,10 +79,7 @@ import "izitoast/dist/css/iziToast.min.css";
 
 Obejrzyj film demo pokazujący działanie aplikacji na tym etapie — 
 
-<pre>
-<video src="https://goitlmsstorage.b-cdn.net/234b48b7-f415-4245-802b-1746016bac0a19.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
-</pre>
-
+[![Żądania HTTP](https://filedn.eu/lPq6O1K7j8DR1n7JwTuYjYz/img/warsztaty/video11-1.jpg)](https://goitlmsstorage.b-cdn.net/234b48b7-f415-4245-802b-1746016bac0a19.mp4)
 
 __Galeria i karty obrazów__
 
@@ -108,9 +105,7 @@ Przed wyszukaniem nowego słowa kluczowego należy całkowicie oczyszczać zawar
 Obejrzyj film demo pokazujący działanie aplikacji na tym etapie — 
 
 
-<video src="https://goitlmsstorage.b-cdn.net/5c24cb91-7b4c-4912-a1f4-c4a6dd6bf92920.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
-
-
+[![Galeria i karty obrazów](https://filedn.eu/lPq6O1K7j8DR1n7JwTuYjYz/img/warsztaty/video11-2.jpg)](https://goitlmsstorage.b-cdn.net/5c24cb91-7b4c-4912-a1f4-c4a6dd6bf92920.mp4)
 
 Biblioteka `SimpleLightbox`
 
@@ -138,7 +133,8 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 Obejrzyj film demo pokazujący działanie aplikacji na tym etapie — 
 
 
-<video src="https://goitlmsstorage.b-cdn.net/b35d5472-fe97-42b8-8264-a0f12e463dc821.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
+
+[![Biblioteka SimpleLightbox](https://filedn.eu/lPq6O1K7j8DR1n7JwTuYjYz/img/warsztaty/video11-3.jpg)](https://goitlmsstorage.b-cdn.net/b35d5472-fe97-42b8-8264-a0f12e463dc821.mp4)
 
 
 __Wskaźnik pobierania__
@@ -148,8 +144,7 @@ Dodaj element, który informuje użytkownika, że trwa proces pobierania obrazó
 Obejrzyj film demo pokazujący działanie aplikacji na tym etapie — 
 
 
-<video src="https://goitlmsstorage.b-cdn.net/7cc20db1-f940-4252-9a69-9e837b5ec46c22.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
-
+[![Wskaźnik pobierania](https://filedn.eu/lPq6O1K7j8DR1n7JwTuYjYz/img/warsztaty/video11-4.jpg)](https://goitlmsstorage.b-cdn.net/7cc20db1-f940-4252-9a69-9e837b5ec46c22.mp4)
 
 Zamiast zwykłego tekstu, jak zostało to pokazane w filmie demo, można użyć biblioteki z dobrymi wskaźnikami pobierania, takiej jak [css-loader](https://github.com/vineethtrv/css-loader). Wideotutorial na temat korzystania z tej biblioteki jest dostępny w [README.md](http://readme.md/) ich repozytorium.
 
