@@ -79,12 +79,9 @@ import "izitoast/dist/css/iziToast.min.css";
 
 Obejrzyj film demo pokazujący działanie aplikacji na tym etapie — 
 
-<article>
+<pre>
 <video src="https://goitlmsstorage.b-cdn.net/234b48b7-f415-4245-802b-1746016bac0a19.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
-</article>
-
-
-
+</pre>
 
 
 __Galeria i karty obrazów__
